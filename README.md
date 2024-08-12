@@ -5,5 +5,5 @@
 - JavaScript
 ## Projeto realizado pela One-Oracle me parceria com Alura;
 
-## Projeto hospedado:
+## Link do projeto:
 https://decodificador-sooty.vercel.app/
