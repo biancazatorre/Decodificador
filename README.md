@@ -3,4 +3,7 @@
 - HTML
 - CSS
 - JavaScript
-## Projeto em desenvolvimento
+## Projeto realizado pela One-Oracle me parceria com Alura;
+
+## Projeto hospedado:
+https://decodificador-sooty.vercel.app/
